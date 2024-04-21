@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id": 9,
+            "name": "varsha karma",
+             "email" : "vars@123",
+            "phone no." : "8888888888"
+        },
+        {
+            "id": 10,
+            "name": "Pooja Karma",
+         "email" : "poo@124",
+            "phone no." : "8888888887"
+        },
+        {
+            "id": 11,
+            "name": "   Rahul Karma",
+            "email" : "rah@125",
+            "phone no." : "8888888889"
+        },
+        {
+            "id": 12,
+            "name": "Navin karma",
+            "email" : "nav@126",
+            "phone no." : "8888888890"
+        },
+        {
+            "id": 9,
+            "name": "Shivya karma",
+            "email" : "shiv@127",
+            "phone no." : "8888888870"
+        }
+    ]
+}
